@@ -75,30 +75,89 @@ AmericanFootballForecastAutomation/
 
 4. **Configure environment variables:**
    Create a `.env` file in the project root with the following variables:
-   ```env
-   # Google Sheets Configuration
-   SHEET_ID=your_ncaaf_google_sheet_id
-   NFL_SHEET_ID=your_nfl_google_sheet_id
    
-   # API Keys
+   **Required Variables:**
+   ```env
+   # =============================================================================
+   # API KEYS CONFIGURATION (REQUIRED)
+   # =============================================================================
+   
+   # OpenAI API Key for ChatGPT/GPT models
    OPENAI_API_KEY=your_openai_api_key
+   
+   # Tavily API Key for web search functionality
    TAVILY_API_KEY=your_tavily_api_key
    
-   # Google Service Account (choose one method)
+   
+   # =============================================================================
+   # GOOGLE SHEETS CONFIGURATION (REQUIRED)
+   # =============================================================================
+   
+   # Google Sheets Document ID (NCAAF)
+   SHEET_ID=your_ncaaf_google_sheet_id
+   
+   # Google Sheets Document ID (NFL)
+   NFL_SHEET_ID=your_nfl_google_sheet_id
+   
+   # Google Service Account Credentials
+   # Choose one method:
+   
    # Method 1: Individual environment variables (recommended)
    GOOGLE_PROJECT_ID=your_project_id
    GOOGLE_PRIVATE_KEY_ID=your_private_key_id
    GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\n...\n-----END PRIVATE KEY-----\n"
    GOOGLE_CLIENT_EMAIL=your_service_account_email
    GOOGLE_CLIENT_ID=your_client_id
+   GOOGLE_AUTH_URI=https://accounts.google.com/o/oauth2/auth
+   GOOGLE_TOKEN_URI=https://oauth2.googleapis.com/token
+   GOOGLE_AUTH_PROVIDER_X509_CERT_URL=https://www.googleapis.com/oauth2/v1/certs
+   GOOGLE_CLIENT_X509_CERT_URL=https://www.googleapis.com/robot/v1/metadata/x509/...
+   GOOGLE_UNIVERSE_DOMAIN=googleapis.com
    
-   # Method 2: Legacy JSON string format
+   # Method 2: Legacy JSON string format (alternative)
    # GOOGLE_SERVICE_ACCOUNT_KEY={"type":"service_account",...}
-   
-   # Optional: SportsLine credentials (for NFL SportsLine scraper)
-   SPORTSLINE_EMAIL=your_sportsline_email
-   SPORTSLINE_PASSWORD=your_sportsline_password
    ```
+   
+   **Optional Variables:**
+   ```env
+   # =============================================================================
+   # SPORTSLINE CREDENTIALS (OPTIONAL - Required for NFL SportsLine scraper)
+   # =============================================================================
+   
+   # SportsLine Login Email
+   SPORTSLINE_EMAIL=your_sportsline_email
+   
+   # SportsLine Login Password
+   SPORTSLINE_PASSWORD=your_sportsline_password
+   
+   # SportsLine Login URL (optional, has default)
+   SPORTSLINE_LOGIN_URL=https://www.sportsline.com/login?xurl=%2F
+   
+   
+   # =============================================================================
+   # BRIGHTDATA PROXY CONFIGURATION (OPTIONAL - For future use)
+   # =============================================================================
+   
+   # BrightData API Key
+   BRIGHTDATA_API_KEY=your_brightdata_api_key
+   
+   # BrightData API URL
+   BRIGHTDATA_API_URL=https://api.brightdata.com/request
+   
+   # BrightData MCP SSE Endpoint
+   BRIGHTDATA_MCP_SSE=https://mcp.brightdata.com/sse?token=...
+   
+   # Proxy Zone Configuration
+   PROXY_ZONE=datacenter_shared
+   
+   # Proxy Country
+   PROXY_COUNTRY=US
+   
+   # Proxy Session ID
+   PROXY_SESSION_ID=brightdata_session_001
+   ```
+   
+   **Note:** Most optional variables have default values or are only needed for specific features (e.g., SportsLine scraper).
 
 ## Usage
 
