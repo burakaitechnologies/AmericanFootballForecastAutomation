@@ -1,0 +1,118 @@
+{
+  "website": "fantasynerds",
+  "total": 14,
+  "games": [
+    {
+      "game_id": "9194ab35-5483-47e5-9bd7-f09fc84e3621",
+      "away_team": "Ravens",
+      "home_team": "Dolphins",
+      "predicted_score_away": 22.0,
+      "predicted_score_home": 28.0,
+      "scraped_at": "2025-11-02T16:03:39.431580"
+    },
+    {
+      "game_id": "5c76f2f3-80f3-450b-a200-d6461d01d8cf",
+      "away_team": "Bears",
+      "home_team": "Bengals",
+      "predicted_score_away": 24.0,
+      "predicted_score_home": 27.0,
+      "scraped_at": "2025-11-02T16:03:39.300320"
+    },
+    {
+      "game_id": "03a4b660-3e3d-4fd7-85f5-7d3e892e5818",
+      "away_team": "Vikings",
+      "home_team": "Lions",
+      "predicted_score_away": 29.0,
+      "predicted_score_home": 20.0,
+      "scraped_at": "2025-11-02T16:03:38.299330"
+    },
+    {
+      "game_id": "efddc654-1654-49a8-9e76-ffae0297ea4f",
+      "away_team": "Panthers",
+      "home_team": "Packers",
+      "predicted_score_away": 29.0,
+      "predicted_score_home": 17.0,
+      "scraped_at": "2025-11-02T16:03:38.088247"
+    },
+    {
+      "game_id": "97f6667e-f0e0-4d0e-b5e2-e5c4081d643f",
+      "away_team": "Broncos",
+      "home_team": "Texans",
+      "predicted_score_away": 20.0,
+      "predicted_score_home": 20.0,
+      "scraped_at": "2025-11-02T16:03:38.343139"
+    },
+    {
+      "game_id": "3b8c554a-3700-4bbe-bf95-ea8afe5d0ee9",
+      "away_team": "Falcons",
+      "home_team": "Patriots",
+      "predicted_score_away": 25.0,
+      "predicted_score_home": 19.0,
+      "scraped_at": "2025-11-02T16:03:38.124185"
+    },
+    {
+      "game_id": "23c77cb6-adc0-4519-bbfb-245784f6805b",
+      "away_team": "49ers",
+      "home_team": "Giants",
+      "predicted_score_away": 23.0,
+      "predicted_score_home": 24.0,
+      "scraped_at": "2025-11-02T16:03:39.466221"
+    },
+    {
+      "game_id": "abbb9853-2e1a-4d5c-a6a7-b4ae8329ce59",
+      "away_team": "Colts",
+      "home_team": "Steelers",
+      "predicted_score_away": 24.0,
+      "predicted_score_home": 27.0,
+      "scraped_at": "2025-11-02T16:03:38.472048"
+    },
+    {
+      "game_id": "26306174-c10c-4e58-9c49-fd0f4d818509",
+      "away_team": "Chargers",
+      "home_team": "Titans",
+      "predicted_score_away": 16.0,
+      "predicted_score_home": 27.0,
+      "scraped_at": "2025-11-02T16:03:37.545413"
+    },
+    {
+      "game_id": "c9a8ed35-bdfb-4c6f-9fd4-1a67e5e6dae2",
+      "away_team": "Saints",
+      "home_team": "Rams",
+      "predicted_score_away": 27.0,
+      "predicted_score_home": 15.0,
+      "scraped_at": "2025-11-02T16:03:38.107197"
+    },
+    {
+      "game_id": "20693159-91e1-47d0-a372-d4c6158f89c6",
+      "away_team": "Jaguars",
+      "home_team": "Raiders",
+      "predicted_score_away": 20.0,
+      "predicted_score_home": 22.0,
+      "scraped_at": "2025-11-02T16:03:37.808254"
+    },
+    {
+      "game_id": "baeb17e8-e61c-4e80-86a7-83077ce39e0a",
+      "away_team": "Chiefs",
+      "home_team": "Bills",
+      "predicted_score_away": 25.0,
+      "predicted_score_home": 26.0,
+      "scraped_at": "2025-11-02T16:03:39.449608"
+    },
+    {
+      "game_id": "bd840aba-313f-4953-93f2-e04decc4c570",
+      "away_team": "Seahawks",
+      "home_team": "Commanders",
+      "predicted_score_away": 22.0,
+      "predicted_score_home": 25.0,
+      "scraped_at": "2025-11-02T16:03:39.340016"
+    },
+    {
+      "game_id": "009d2fe2-c79a-4969-a13d-64bf189735f5",
+      "away_team": "Cardinals",
+      "home_team": "Cowboys",
+      "predicted_score_away": 27.0,
+      "predicted_score_home": 25.0,
+      "scraped_at": "2025-11-02T16:03:39.319320"
+    }
+  ]
+}

@@ -1,0 +1,918 @@
+{
+  "website": "dratings",
+  "total": 114,
+  "games": [
+    {
+      "game_id": "6db38285-943d-4a91-a0db-7709d354367d",
+      "away_team": "Miami University",
+      "home_team": "Ohio University",
+      "spread_away": 33.2,
+      "spread_home": 66.8,
+      "scraped_at": "2025-11-02T16:03:21.240834"
+    },
+    {
+      "game_id": "e0b71a78-89c9-4ec2-acf9-db071d0dd52a",
+      "away_team": "University of Massachusetts Amherst",
+      "home_team": "Akron University",
+      "spread_away": 28.7,
+      "spread_home": 71.3,
+      "scraped_at": "2025-11-02T16:03:20.100173"
+    },
+    {
+      "game_id": "2aa2fb6b-a077-4fcc-9ee9-cbcfef91c7ad",
+      "away_team": "Kent State University",
+      "home_team": "Ball State University",
+      "spread_away": 37.9,
+      "spread_home": 62.1,
+      "scraped_at": "2025-11-02T16:03:21.399755"
+    },
+    {
+      "game_id": "0d1ae73b-37c6-44a3-8e8a-f8a27584f10e",
+      "away_team": "Northern Illinois University",
+      "home_team": "University of Toledo",
+      "spread_away": 12.0,
+      "spread_home": 88.0,
+      "scraped_at": "2025-11-02T16:03:21.488861"
+    },
+    {
+      "game_id": "5c8e7303-827f-4ad9-b762-d1a26d57b5b2",
+      "away_team": "University of Texas at San Antonio",
+      "home_team": "University of South Florida",
+      "spread_away": 19.1,
+      "spread_home": 80.9,
+      "scraped_at": "2025-11-02T16:03:21.566093"
+    },
+    {
+      "game_id": "520e813f-f12f-4b7a-a40d-2312e4572381",
+      "away_team": "Georgia Southern University",
+      "home_team": "Appalachian State University",
+      "spread_away": 41.5,
+      "spread_home": 58.5,
+      "scraped_at": "2025-11-02T16:03:21.322995"
+    },
+    {
+      "game_id": "0070b437-74e1-4dbe-842a-4336c2b3d493",
+      "away_team": "Delaware State University",
+      "home_team": "Morgan State University",
+      "spread_away": 64.8,
+      "spread_home": 35.2,
+      "scraped_at": "2025-11-02T16:03:20.719702"
+    },
+    {
+      "game_id": "f1663558-3f71-43e2-a233-872073f24fb2",
+      "away_team": "Harvard University",
+      "home_team": "Columbia University",
+      "spread_away": 95.7,
+      "spread_home": 4.3,
+      "scraped_at": "2025-11-02T16:03:20.768226"
+    },
+    {
+      "game_id": "066734d2-441c-4fe8-928f-2415a07ac9d8",
+      "away_team": "University of Houston",
+      "home_team": "University of Central Florida",
+      "spread_away": 48.4,
+      "spread_home": 51.6,
+      "scraped_at": "2025-11-02T16:03:21.144889"
+    },
+    {
+      "game_id": "c825e741-fab1-4b04-adf2-b0cfda9c96d6",
+      "away_team": "Tulane University",
+      "home_team": "University of Memphis",
+      "spread_away": 45.2,
+      "spread_home": 54.8,
+      "scraped_at": "2025-11-02T16:03:20.395749"
+    },
+    {
+      "game_id": "efeb7dc1-4259-457f-8768-dd417b683005",
+      "away_team": "Northwestern University",
+      "home_team": "University of Southern California",
+      "spread_away": 6.8,
+      "spread_home": 93.2,
+      "scraped_at": "2025-11-02T16:03:21.654918"
+    },
+    {
+      "game_id": "f95f6244-3423-4133-b414-562777dc84d2",
+      "away_team": "Temple University",
+      "home_team": "United States Military Academy",
+      "spread_away": 34.9,
+      "spread_home": 65.1,
+      "scraped_at": "2025-11-02T16:03:21.737795"
+    },
+    {
+      "game_id": "f1f2c965-6750-45fb-b0f9-ece924018146",
+      "away_team": "James Madison University",
+      "home_team": "Marshall University",
+      "spread_away": 88.0,
+      "spread_home": 12.0,
+      "scraped_at": "2025-11-02T16:03:21.818719"
+    },
+    {
+      "game_id": "feacfb3c-6d51-4292-ad82-00e80e32f736",
+      "away_team": "University of Colorado Boulder",
+      "home_team": "West Virginia University",
+      "spread_away": 58.9,
+      "spread_home": 41.1,
+      "scraped_at": "2025-11-02T16:03:21.899269"
+    },
+    {
+      "game_id": "c05b1334-b70e-4ee5-ab5f-9a7abe22d9e8",
+      "away_team": "Southern Methodist University",
+      "home_team": "Boston College",
+      "spread_away": 90.3,
+      "spread_home": 9.7,
+      "scraped_at": "2025-11-02T16:03:23.562930"
+    },
+    {
+      "game_id": "40ff9d94-9fe2-405c-9542-5b2448e197f1",
+      "away_team": "Indiana University",
+      "home_team": "Pennsylvania State University",
+      "spread_away": 81.3,
+      "spread_home": 18.7,
+      "scraped_at": "2025-11-02T16:03:23.689673"
+    },
+    {
+      "game_id": "a4563c1f-1618-45fd-a012-b7a0688419bb",
+      "away_team": "University of Georgia",
+      "home_team": "Mississippi State University",
+      "spread_away": 84.1,
+      "spread_home": 15.9,
+      "scraped_at": "2025-11-02T16:03:23.440848"
+    },
+    {
+      "game_id": "1350f0a3-7728-4943-abd2-eaef4517be67",
+      "away_team": "Brigham Young University",
+      "home_team": "Texas Tech University",
+      "spread_away": 26.0,
+      "spread_home": 74.0,
+      "scraped_at": "2025-11-02T16:03:23.290373"
+    },
+    {
+      "game_id": "c0ecbc91-8a2b-4ad4-916f-4207e6fbdb2a",
+      "away_team": "University of Southern Mississippi",
+      "home_team": "Arkansas State University",
+      "spread_away": 68.4,
+      "spread_home": 31.6,
+      "scraped_at": "2025-11-02T16:03:23.967637"
+    },
+    {
+      "game_id": "d9dbaef3-5ab0-435f-af35-befd1d7e6c73",
+      "away_team": "University of New Hampshire",
+      "home_team": "Monmouth University",
+      "spread_away": 15.1,
+      "spread_home": 84.9,
+      "scraped_at": "2025-11-02T16:03:23.621213"
+    },
+    {
+      "game_id": "0b7f1de5-7987-4e48-8cfa-551aee5c2d6d",
+      "away_team": "North Carolina Agricultural and Technical State University",
+      "home_team": "Stony Brook University",
+      "spread_away": 11.2,
+      "spread_home": 88.8,
+      "scraped_at": "2025-11-02T16:03:24.130274"
+    },
+    {
+      "game_id": "7310c6fe-99b1-4004-8d66-df1f6bedc55d",
+      "away_team": "Duquesne University",
+      "home_team": "Long Island University",
+      "spread_away": 59.1,
+      "spread_home": 40.9,
+      "scraped_at": "2025-11-02T16:03:23.739791"
+    },
+    {
+      "game_id": "88afcd07-9928-42a5-b46c-a79b90353869",
+      "away_team": "Wagner College",
+      "home_team": "Robert Morris University",
+      "spread_away": 48.2,
+      "spread_home": 51.8,
+      "scraped_at": "2025-11-02T16:03:24.182235"
+    },
+    {
+      "game_id": "e4570cf2-8f98-4108-b0eb-b616ab0e7c91",
+      "away_team": "College of the Holy Cross",
+      "home_team": "Lehigh University",
+      "spread_away": 2.9,
+      "spread_home": 97.1,
+      "scraped_at": "2025-11-02T16:03:24.158705"
+    },
+    {
+      "game_id": "96d3691e-80a8-4ddb-affe-9641b44c3061",
+      "away_team": "Yale University",
+      "home_team": "Brown University",
+      "spread_away": 84.2,
+      "spread_home": 15.8,
+      "scraped_at": "2025-11-02T16:03:25.005891"
+    },
+    {
+      "game_id": "9fd75eb1-e721-40d7-b43d-96b09759d98b",
+      "away_team": "Furman University",
+      "home_team": "University of Tennessee at Chattanooga",
+      "spread_away": 31.3,
+      "spread_home": 68.7,
+      "scraped_at": "2025-11-02T16:03:25.068477"
+    },
+    {
+      "game_id": "13b28ba0-8a03-4468-95ec-4dace473ed70",
+      "away_team": "Mercyhurst University",
+      "home_team": "Saint Francis University",
+      "spread_away": 85.3,
+      "spread_home": 14.7,
+      "scraped_at": "2025-11-02T16:03:25.139980"
+    },
+    {
+      "game_id": "a72d4ca0-d0c3-4cf2-a189-d3e3dabcf2df",
+      "away_team": "Stonehill College",
+      "home_team": "Central Connecticut State University",
+      "spread_away": 15.4,
+      "spread_home": 84.6,
+      "scraped_at": "2025-11-02T16:03:25.214943"
+    },
+    {
+      "game_id": "43aae3fd-ba11-48d1-8053-f8aceb7eb2c5",
+      "away_team": "Colgate University",
+      "home_team": "Lafayette College",
+      "spread_away": 34.1,
+      "spread_home": 65.9,
+      "scraped_at": "2025-11-02T16:03:25.269397"
+    },
+    {
+      "game_id": "9cbae799-96a8-4e81-adce-52cef80bf9a6",
+      "away_team": "The Ohio State University",
+      "home_team": "Purdue University",
+      "spread_away": 97.7,
+      "spread_home": 2.3,
+      "scraped_at": "2025-11-02T16:03:26.261237"
+    },
+    {
+      "game_id": "078091d8-dc56-4eb4-af96-078b074af262",
+      "away_team": "Bowling Green State University",
+      "home_team": "Eastern Michigan University",
+      "spread_away": 68.6,
+      "spread_home": 31.4,
+      "scraped_at": "2025-11-02T16:03:25.721848"
+    },
+    {
+      "game_id": "efbaf4a9-47ca-4d3c-8dd1-cc3f74479282",
+      "away_team": "Missouri State University",
+      "home_team": "Liberty University",
+      "spread_away": 26.3,
+      "spread_home": 73.7,
+      "scraped_at": "2025-11-02T16:03:26.176986"
+    },
+    {
+      "game_id": "ffcdcde4-3151-4c4c-801a-08bb4891251a",
+      "away_team": "The Citadel, The Military College of South Carolina",
+      "home_team": "University of Mississippi",
+      "spread_away": 0.1,
+      "spread_home": 99.9,
+      "scraped_at": "2025-11-02T16:03:25.776738"
+    },
+    {
+      "game_id": "e028f0ad-c58c-4ec8-88fb-e18dba561d2b",
+      "away_team": "Stetson University",
+      "home_team": "Marist College",
+      "spread_away": 11.1,
+      "spread_home": 88.9,
+      "scraped_at": "2025-11-02T16:03:25.928278"
+    },
+    {
+      "game_id": "d90184d6-c9da-47c7-8c8a-09ce2abc707c",
+      "away_team": "Princeton University",
+      "home_team": "Dartmouth College",
+      "spread_away": 22.9,
+      "spread_home": 77.1,
+      "scraped_at": "2025-11-02T16:03:26.353313"
+    },
+    {
+      "game_id": "100e6247-49b6-4ae2-a034-921cabb7e168",
+      "away_team": "Cornell University",
+      "home_team": "University of Pennsylvania",
+      "spread_away": 12.1,
+      "spread_home": 87.9,
+      "scraped_at": "2025-11-02T16:03:26.311021"
+    },
+    {
+      "game_id": "aba9ed89-8cdc-4019-8f77-4f5942aab7d6",
+      "away_team": "Illinois State University",
+      "home_team": "Indiana State University",
+      "spread_away": 81.7,
+      "spread_home": 18.3,
+      "scraped_at": "2025-11-02T16:03:26.412863"
+    },
+    {
+      "game_id": "6c2936e9-9f17-4a14-a2e4-0747b4f89cc7",
+      "away_team": "Butler University",
+      "home_team": "Morehead State University",
+      "spread_away": 76.8,
+      "spread_home": 23.2,
+      "scraped_at": "2025-11-02T16:03:26.758498"
+    },
+    {
+      "game_id": "cc8f727e-7564-4eb2-8f40-7ef8c2bfc7f5",
+      "away_team": "Bucknell University",
+      "home_team": "Fordham University",
+      "spread_away": 38.1,
+      "spread_home": 61.9,
+      "scraped_at": "2025-11-02T16:03:26.590339"
+    },
+    {
+      "game_id": "e11cb62c-f6b8-4a7a-a0e9-ccdd6f17044a",
+      "away_team": "Bryant University",
+      "home_team": "University at Albany",
+      "spread_away": 49.6,
+      "spread_home": 50.4,
+      "scraped_at": "2025-11-02T16:03:27.039101"
+    },
+    {
+      "game_id": "35cc1ac1-47b6-409f-80fb-021e8e8e5525",
+      "away_team": "University of Maine",
+      "home_team": "Hampton University",
+      "spread_away": 90.0,
+      "spread_home": 10.0,
+      "scraped_at": "2025-11-02T16:03:26.836169"
+    },
+    {
+      "game_id": "702a57d0-01d8-4873-8405-2ba58ead78b8",
+      "away_team": "Villanova University",
+      "home_team": "Towson University",
+      "spread_away": 83.0,
+      "spread_home": 17.0,
+      "scraped_at": "2025-11-02T16:03:27.109273"
+    },
+    {
+      "game_id": "0b29f06f-cadf-4ef0-9aec-973583b6e4c9",
+      "away_team": "University of San Diego",
+      "home_team": "Valparaiso University",
+      "spread_away": 93.7,
+      "spread_home": 6.3,
+      "scraped_at": "2025-11-02T16:03:27.539783"
+    },
+    {
+      "game_id": "70da41ff-0eb3-4a29-854b-2c08b330d3ad",
+      "away_team": "Tennessee Technological University",
+      "home_team": "Eastern Illinois University",
+      "spread_away": 94.7,
+      "spread_home": 5.3,
+      "scraped_at": "2025-11-02T16:03:27.667532"
+    },
+    {
+      "game_id": "11c80ca6-9381-4bba-beca-1609a85ee301",
+      "away_team": "University of Richmond",
+      "home_team": "Georgetown University",
+      "spread_away": 57.5,
+      "spread_home": 42.5,
+      "scraped_at": "2025-11-02T16:03:28.027548"
+    },
+    {
+      "game_id": "3180ef90-e288-4555-ad06-55f8dc77e0bf",
+      "away_team": "Presbyterian College",
+      "home_team": "Davidson College",
+      "spread_away": 97.0,
+      "spread_home": 3.0,
+      "scraped_at": "2025-11-02T16:03:28.171780"
+    },
+    {
+      "game_id": "459a959a-9492-40e0-9a99-010c9619b041",
+      "away_team": "University of St. Thomas",
+      "home_team": "Drake University",
+      "spread_away": 35.8,
+      "spread_home": 64.2,
+      "scraped_at": "2025-11-02T16:03:28.114444"
+    },
+    {
+      "game_id": "5b0a78be-fec2-42b4-b78b-91360e1ab3f5",
+      "away_team": "Howard University",
+      "home_team": "South Carolina State University",
+      "spread_away": 10.3,
+      "spread_home": 89.7,
+      "scraped_at": "2025-11-02T16:03:28.512671"
+    },
+    {
+      "game_id": "b2e733c5-bd03-479e-87d9-7c4211d4a9a2",
+      "away_team": "Wofford College",
+      "home_team": "Virginia Military Institute",
+      "spread_away": 85.4,
+      "spread_home": 14.6,
+      "scraped_at": "2025-11-02T16:03:28.590805"
+    },
+    {
+      "game_id": "162ccc25-85be-4777-b831-e0340ab2f8b7",
+      "away_team": "Southeast Missouri State University",
+      "home_team": "Gardner-Webb University",
+      "spread_away": 40.9,
+      "spread_home": 59.1,
+      "scraped_at": "2025-11-02T16:03:28.566305"
+    },
+    {
+      "game_id": "4ba99aad-6010-4225-b11f-3e7cfab3653c",
+      "away_team": "University of Alabama at Birmingham",
+      "home_team": "Rice University",
+      "spread_away": 37.6,
+      "spread_home": 62.4,
+      "scraped_at": "2025-11-02T16:03:28.626435"
+    },
+    {
+      "game_id": "d5a79618-e4dc-4ec3-a35b-8c82736f74cd",
+      "away_team": "Norfolk State University",
+      "home_team": "North Carolina Central University",
+      "spread_away": 3.8,
+      "spread_home": 96.2,
+      "scraped_at": "2025-11-02T16:03:28.578501"
+    },
+    {
+      "game_id": "f401b857-c991-43d4-8226-1d9046e19d7f",
+      "away_team": "Tennessee State University",
+      "home_team": "University of Tennessee at Martin",
+      "spread_away": 13.7,
+      "spread_home": 86.3,
+      "scraped_at": "2025-11-02T16:03:28.974625"
+    },
+    {
+      "game_id": "6f6c373b-ddc1-4f74-9eaa-fdae5706bb14",
+      "away_team": "Murray State University",
+      "home_team": "University of Northern Iowa",
+      "spread_away": 6.0,
+      "spread_home": 94.0,
+      "scraped_at": "2025-11-02T16:03:29.064825"
+    },
+    {
+      "game_id": "d7e848f7-0263-4aff-8627-e7ba474b35a9",
+      "away_team": "North Dakota State University",
+      "home_team": "University of North Dakota",
+      "spread_away": 83.2,
+      "spread_home": 16.8,
+      "scraped_at": "2025-11-02T16:03:29.567566"
+    },
+    {
+      "game_id": "e0418952-fbcd-444b-abf0-aec3f4575e6c",
+      "away_team": "William & Mary",
+      "home_team": "Campbell University",
+      "spread_away": 84.8,
+      "spread_home": 15.2,
+      "scraped_at": "2025-11-02T16:03:29.343860"
+    },
+    {
+      "game_id": "7d7d969d-2448-4605-866c-dfd98c97ff25",
+      "away_team": "Rhode Island College",
+      "home_team": "Elon University",
+      "spread_away": 64.0,
+      "spread_home": 36.0,
+      "scraped_at": "2025-11-02T16:03:29.435394"
+    },
+    {
+      "game_id": "755e7486-f99d-4779-82e7-130d3ca38f71",
+      "away_team": "Southern Illinois University",
+      "home_team": "Youngstown State University",
+      "spread_away": 62.3,
+      "spread_home": 37.7,
+      "scraped_at": "2025-11-02T16:03:29.742943"
+    },
+    {
+      "game_id": "7fe70721-6ca2-430c-87f5-4b6808e3725b",
+      "away_team": "Lindenwood University",
+      "home_team": "Western Illinois University",
+      "spread_away": 66.4,
+      "spread_home": 33.6,
+      "scraped_at": "2025-11-02T16:03:29.846816"
+    },
+    {
+      "game_id": "ac8377ad-bdb5-4962-bcf3-17c0934f6da6",
+      "away_team": "Incarnate Word University",
+      "home_team": "Northwestern State University",
+      "spread_away": 96.7,
+      "spread_home": 3.3,
+      "scraped_at": "2025-11-02T16:03:30.058603"
+    },
+    {
+      "game_id": "0a554100-994e-403f-a4dc-bf83c57cee39",
+      "away_team": "University of Maryland",
+      "home_team": "Rutgers University",
+      "spread_away": 44.5,
+      "spread_home": 55.5,
+      "scraped_at": "2025-11-02T16:03:30.045933"
+    },
+    {
+      "game_id": "42bd9e62-826d-4a1f-b018-06af58266598",
+      "away_team": "Mercer University",
+      "home_team": "Western Carolina University",
+      "spread_away": 64.2,
+      "spread_home": 35.8,
+      "scraped_at": "2025-11-02T16:03:30.105144"
+    },
+    {
+      "game_id": "c82035a4-091b-439f-a976-4330141bfc8a",
+      "away_team": "University of North Carolina at Charlotte",
+      "home_team": "East Carolina University",
+      "spread_away": 3.9,
+      "spread_home": 96.1,
+      "scraped_at": "2025-11-02T16:03:30.128703"
+    },
+    {
+      "game_id": "88f9ed9c-bd28-481a-b00e-4fd4c3de8465",
+      "away_team": "University of Tulsa",
+      "home_team": "Florida Atlantic University",
+      "spread_away": 38.5,
+      "spread_home": 61.5,
+      "scraped_at": "2025-11-02T16:03:30.293689"
+    },
+    {
+      "game_id": "650e776d-d3e1-4cb1-9a93-7d794143f1f3",
+      "away_team": "Louisiana Tech University",
+      "home_team": "University of Delaware",
+      "spread_away": 77.7,
+      "spread_home": 22.3,
+      "scraped_at": "2025-11-02T16:03:30.758305"
+    },
+    {
+      "game_id": "ec7726fd-c57e-439e-b770-8ec6e6124568",
+      "away_team": "Florida International University",
+      "home_team": "Middle Tennessee State University",
+      "spread_away": 60.1,
+      "spread_home": 39.9,
+      "scraped_at": "2025-11-02T16:03:30.740095"
+    },
+    {
+      "game_id": "7d12c127-b06e-46ae-8ee2-e28e32d7d27e",
+      "away_team": "Jacksonville State University",
+      "home_team": "University of Texas at El Paso",
+      "spread_away": 44.6,
+      "spread_home": 55.4,
+      "scraped_at": "2025-11-02T16:03:30.861204"
+    },
+    {
+      "game_id": "a30eb635-136e-49ae-8380-ebde7c05c6ee",
+      "away_team": "University of Nebraska-Lincoln",
+      "home_team": "University of California, Los Angeles",
+      "spread_away": 72.8,
+      "spread_home": 27.2,
+      "scraped_at": "2025-11-02T16:03:30.998767"
+    },
+    {
+      "game_id": "63703560-4d1c-4b17-b465-8ffb64c675c0",
+      "away_team": "Bethune-Cookman University",
+      "home_team": "Grambling State University",
+      "spread_away": 30.3,
+      "spread_home": 69.7,
+      "scraped_at": "2025-11-02T16:03:31.067630"
+    },
+    {
+      "game_id": "30992aaa-1671-4ef5-b56a-78fc60bb7061",
+      "away_team": "Eastern Washington University",
+      "home_team": "University of Montana",
+      "spread_away": 3.7,
+      "spread_home": 96.3,
+      "scraped_at": "2025-11-02T16:03:31.053276"
+    },
+    {
+      "game_id": "f0241577-42f8-4929-9f8c-b0c207a96159",
+      "away_team": "Weber State University",
+      "home_team": "Montana State University",
+      "spread_away": 3.3,
+      "spread_home": 96.7,
+      "scraped_at": "2025-11-02T16:03:31.106159"
+    },
+    {
+      "game_id": "e370b47b-35a8-4f72-ab31-0da20ab73158",
+      "away_team": "Southern Utah University",
+      "home_team": "Eastern Kentucky University",
+      "spread_away": 67.3,
+      "spread_home": 32.7,
+      "scraped_at": "2025-11-02T16:03:31.327903"
+    },
+    {
+      "game_id": "218080b4-563c-40f8-96e4-4bb533d9799e",
+      "away_team": "Florida Agricultural and Mechanical University",
+      "home_team": "University of Arkansas at Pine Bluff",
+      "spread_away": 72.7,
+      "spread_home": 27.3,
+      "scraped_at": "2025-11-02T16:03:31.258156"
+    },
+    {
+      "game_id": "eb22f4d6-ae26-494e-a60a-a9cb60f3ed8a",
+      "away_team": "Stephen F. Austin State University",
+      "home_team": "Houston Christian University",
+      "spread_away": 94.8,
+      "spread_home": 5.2,
+      "scraped_at": "2025-11-02T16:03:31.378627"
+    },
+    {
+      "game_id": "5f3cb15f-7b07-45c0-8fc9-8a9060ac59be",
+      "away_team": "Jackson State University",
+      "home_team": "Mississippi Valley State University",
+      "spread_away": 98.7,
+      "spread_home": 1.3,
+      "scraped_at": "2025-11-02T16:03:31.451848"
+    },
+    {
+      "game_id": "54f7e687-04a7-477d-a3c2-44e91d2d19c4",
+      "away_team": "Prairie View A&M University",
+      "home_team": "Alabama A&M University",
+      "spread_away": 56.5,
+      "spread_home": 43.5,
+      "scraped_at": "2025-11-02T16:03:31.960905"
+    },
+    {
+      "game_id": "01aa7f06-ddcb-4516-8bdd-b27ec8d5c63d",
+      "away_team": "Texas Southern University",
+      "home_team": "Alabama State University",
+      "spread_away": 8.4,
+      "spread_home": 91.6,
+      "scraped_at": "2025-11-02T16:03:32.130046"
+    },
+    {
+      "game_id": "8f08fbac-2439-4fb4-b50d-9c0ed822ee87",
+      "away_team": "Utah Tech University",
+      "home_team": "Abilene Christian University",
+      "spread_away": 14.0,
+      "spread_home": 86.0,
+      "scraped_at": "2025-11-02T16:03:32.671225"
+    },
+    {
+      "game_id": "f4775ac9-ccdb-4016-9fab-2f6646ae2261",
+      "away_team": "Syracuse University",
+      "home_team": "University of Miami",
+      "spread_away": 1.7,
+      "spread_home": 98.3,
+      "scraped_at": "2025-11-02T16:03:33.041946"
+    },
+    {
+      "game_id": "62e80ab8-89fb-4b1e-a606-f1f69e73be54",
+      "away_team": "Iowa State University",
+      "home_team": "Texas Christian University",
+      "spread_away": 51.0,
+      "spread_home": 49.0,
+      "scraped_at": "2025-11-02T16:03:32.235647"
+    },
+    {
+      "game_id": "43146206-d8a5-4039-aead-2aaab611c0f3",
+      "away_team": "Texas A&M University",
+      "home_team": "University of Missouri",
+      "spread_away": 69.5,
+      "spread_home": 30.5,
+      "scraped_at": "2025-11-02T16:03:33.149796"
+    },
+    {
+      "game_id": "e62771cd-101c-416b-ad0c-75165a2a37f0",
+      "away_team": "University of Oregon",
+      "home_team": "University of Iowa",
+      "spread_away": 71.7,
+      "spread_home": 28.3,
+      "scraped_at": "2025-11-02T16:03:32.576398"
+    },
+    {
+      "game_id": "17105474-ac89-4902-bdd1-ecee05c4aaf6",
+      "away_team": "University of Washington",
+      "home_team": "University of Wisconsin-Madison",
+      "spread_away": 86.5,
+      "spread_home": 13.5,
+      "scraped_at": "2025-11-02T16:03:33.090748"
+    },
+    {
+      "game_id": "d4e8886a-a8eb-4fd2-ac52-e6b0390f2b51",
+      "away_team": "University of Kansas",
+      "home_team": "University of Arizona",
+      "spread_away": 41.5,
+      "spread_home": 58.5,
+      "scraped_at": "2025-11-02T16:03:33.115447"
+    },
+    {
+      "game_id": "e54392eb-f7d6-451d-b9da-d34c30dff1a1",
+      "away_team": "Duke University",
+      "home_team": "University of Connecticut",
+      "spread_away": 79.7,
+      "spread_home": 20.3,
+      "scraped_at": "2025-11-02T16:03:33.317223"
+    },
+    {
+      "game_id": "1f8585a1-d45f-4ced-9ce1-1377e64a5416",
+      "away_team": "Merrimack College",
+      "home_team": "University of New Haven",
+      "spread_away": 80.4,
+      "spread_home": 19.6,
+      "scraped_at": "2025-11-02T16:03:32.946254"
+    },
+    {
+      "game_id": "e303572d-d4df-4ee5-9620-5406c9f5cd37",
+      "away_team": "East Tennessee State University",
+      "home_team": "Samford University",
+      "spread_away": 87.4,
+      "spread_home": 12.6,
+      "scraped_at": "2025-11-02T16:03:33.128514"
+    },
+    {
+      "game_id": "113b7195-207f-4943-a71b-03da2475652c",
+      "away_team": "Georgia State University",
+      "home_team": "Coastal Carolina University",
+      "spread_away": 20.5,
+      "spread_home": 79.5,
+      "scraped_at": "2025-11-02T16:03:33.238793"
+    },
+    {
+      "game_id": "60887f69-0c39-47da-b4a3-6b884cdf39e7",
+      "away_team": "Auburn University",
+      "home_team": "Vanderbilt University",
+      "spread_away": 31.9,
+      "spread_home": 68.1,
+      "scraped_at": "2025-11-02T16:03:33.473106"
+    },
+    {
+      "game_id": "a0ea78b4-972b-40f0-b72e-b311674b8d84",
+      "away_team": "Kennesaw State University",
+      "home_team": "New Mexico State University",
+      "spread_away": 81.2,
+      "spread_home": 18.8,
+      "scraped_at": "2025-11-02T16:03:33.996667"
+    },
+    {
+      "game_id": "2a31ebf2-5818-4a52-9bf5-aec7ea6ec5c4",
+      "away_team": "Southeastern Louisiana University",
+      "home_team": "Lamar University",
+      "spread_away": 61.4,
+      "spread_home": 38.6,
+      "scraped_at": "2025-11-02T16:03:33.976030"
+    },
+    {
+      "game_id": "62e5c759-e1e5-48d2-bc04-52349917454d",
+      "away_team": "University of Central Arkansas",
+      "home_team": "Austin Peay State University",
+      "spread_away": 24.1,
+      "spread_home": 75.9,
+      "scraped_at": "2025-11-02T16:03:34.595601"
+    },
+    {
+      "game_id": "d50949b2-70b0-417a-80f6-e6e1c82c0c14",
+      "away_team": "Southern University",
+      "home_team": "Alcorn State University",
+      "spread_away": 21.0,
+      "spread_home": 79.0,
+      "scraped_at": "2025-11-02T16:03:34.036689"
+    },
+    {
+      "game_id": "01452300-df01-4d78-8544-226d3263cd17",
+      "away_team": "University of West Georgia",
+      "home_team": "University of North Alabama",
+      "spread_away": 81.8,
+      "spread_home": 18.2,
+      "scraped_at": "2025-11-02T16:03:34.666052"
+    },
+    {
+      "game_id": "23264e10-52fa-423d-ab32-cb181ea8bdde",
+      "away_team": "South Dakota State University",
+      "home_team": "University of South Dakota",
+      "spread_away": 68.5,
+      "spread_home": 31.5,
+      "scraped_at": "2025-11-02T16:03:34.607230"
+    },
+    {
+      "game_id": "b056b5b3-4831-42b6-80db-253adf4791f9",
+      "away_team": "Stanford University",
+      "home_team": "University of North Carolina at Chapel Hill",
+      "spread_away": 34.2,
+      "spread_home": 65.8,
+      "scraped_at": "2025-11-02T16:03:34.773042"
+    },
+    {
+      "game_id": "df1d15f6-1612-4ede-b27e-d6bf4713315d",
+      "away_team": "Texas State University",
+      "home_team": "University of Louisiana at Lafayette",
+      "spread_away": 73.5,
+      "spread_home": 26.5,
+      "scraped_at": "2025-11-02T16:03:34.576148"
+    },
+    {
+      "game_id": "8fd6a7f8-0fcf-41aa-9154-c58dc5ab7720",
+      "away_team": "Sacramento State University",
+      "home_team": "Portland State University",
+      "spread_away": 92.5,
+      "spread_home": 7.5,
+      "scraped_at": "2025-11-02T16:03:34.654179"
+    },
+    {
+      "game_id": "80f69ac7-fc57-4a08-b4f2-85ff720d86b8",
+      "away_team": "McNeese State University",
+      "home_team": "Texas A&M University-Commerce",
+      "spread_away": 43.7,
+      "spread_home": 56.3,
+      "scraped_at": "2025-11-02T16:03:34.805772"
+    },
+    {
+      "game_id": "81d3b88a-c392-477d-8bc3-ab8ee1bf341a",
+      "away_team": "United States Air Force Academy",
+      "home_team": "San Jose State University",
+      "spread_away": 40.8,
+      "spread_home": 59.2,
+      "scraped_at": "2025-11-02T16:03:34.981378"
+    },
+    {
+      "game_id": "0f7055e4-666f-4974-8131-56df861363a5",
+      "away_team": "California Polytechnic State University",
+      "home_team": "Idaho State University",
+      "spread_away": 39.2,
+      "spread_home": 60.8,
+      "scraped_at": "2025-11-02T16:03:34.790094"
+    },
+    {
+      "game_id": "7bd6a55b-85c3-44c2-bf2a-639562fb4d44",
+      "away_team": "University of Northern Colorado",
+      "home_team": "Northern Arizona University",
+      "spread_away": 17.3,
+      "spread_home": 82.7,
+      "scraped_at": "2025-11-02T16:03:34.992719"
+    },
+    {
+      "game_id": "b0b9cf3c-46c4-434f-aa86-ca452fcd8799",
+      "away_team": "Nicholls State University",
+      "home_team": "University of Texas Rio Grande Valley",
+      "spread_away": 25.4,
+      "spread_home": 74.6,
+      "scraped_at": "2025-11-02T16:03:35.836379"
+    },
+    {
+      "game_id": "aa145d2c-38fa-471c-974f-ad11abcdd478",
+      "away_team": "Florida State University",
+      "home_team": "Clemson University",
+      "spread_away": 53.7,
+      "spread_home": 46.3,
+      "scraped_at": "2025-11-02T16:03:35.472085"
+    },
+    {
+      "game_id": "f203e96e-769b-44e1-9f39-01498ea5ff56",
+      "away_team": "University of California, Berkeley",
+      "home_team": "University of Louisville",
+      "spread_away": 9.8,
+      "spread_home": 90.2,
+      "scraped_at": "2025-11-02T16:03:36.205388"
+    },
+    {
+      "game_id": "f803f4cb-9668-4840-b0e0-56ce612f62f0",
+      "away_team": "Wake Forest University",
+      "home_team": "University of Virginia",
+      "spread_away": 28.0,
+      "spread_home": 72.0,
+      "scraped_at": "2025-11-02T16:03:35.377494"
+    },
+    {
+      "game_id": "6ebafa6d-a3c9-47ec-a1ff-867e2d328a85",
+      "away_team": "University of California, Davis",
+      "home_team": "University of Idaho",
+      "spread_away": 64.5,
+      "spread_home": 35.5,
+      "scraped_at": "2025-11-02T16:03:36.138226"
+    },
+    {
+      "game_id": "903ecf03-5655-4a75-8a3a-df2cde0650e5",
+      "away_team": "University of Florida",
+      "home_team": "University of Kentucky",
+      "spread_away": 72.4,
+      "spread_home": 27.6,
+      "scraped_at": "2025-11-02T16:03:36.123555"
+    },
+    {
+      "game_id": "672d1cbf-594d-415c-921e-1670c10a353e",
+      "away_team": "Louisiana State University",
+      "home_team": "University of Alabama",
+      "spread_away": 21.1,
+      "spread_home": 78.9,
+      "scraped_at": "2025-11-02T16:03:36.244396"
+    },
+    {
+      "game_id": "c42e062b-a31d-400a-b089-0f325645089b",
+      "away_team": "University of Nevada, Reno",
+      "home_team": "Utah State University",
+      "spread_away": 16.1,
+      "spread_home": 83.9,
+      "scraped_at": "2025-11-02T16:03:36.226087"
+    },
+    {
+      "game_id": "8a1a70df-de90-49f2-931a-cc47cff42bf9",
+      "away_team": "United States Naval Academy",
+      "home_team": "University of Notre Dame",
+      "spread_away": 3.8,
+      "spread_home": 96.2,
+      "scraped_at": "2025-11-02T16:03:36.262865"
+    },
+    {
+      "game_id": "5ebc99c4-022a-461f-8c08-1c8ec8417d10",
+      "away_team": "University of Nevada, Las Vegas",
+      "home_team": "Colorado State University",
+      "spread_away": 63.3,
+      "spread_home": 36.7,
+      "scraped_at": "2025-11-02T16:03:36.184913"
+    },
+    {
+      "game_id": "9a9f1de9-1250-417c-be1d-1166868f3190",
+      "away_team": "Sam Houston State University",
+      "home_team": "Oregon State University",
+      "spread_away": 12.4,
+      "spread_home": 87.6,
+      "scraped_at": "2025-11-02T16:03:36.528372"
+    },
+    {
+      "game_id": "1f881877-8d86-4535-acbe-378c580db989",
+      "away_team": "San Diego State University",
+      "home_team": "University of Hawaii at Manoa",
+      "spread_away": 67.8,
+      "spread_home": 32.2,
+      "scraped_at": "2025-11-02T16:03:36.546492"
+    }
+  ]
+}

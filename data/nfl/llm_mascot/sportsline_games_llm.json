@@ -1,0 +1,46 @@
+{
+  "website": "sportsline",
+  "total": 5,
+  "games": [
+    {
+      "game_id": "abbda6c2-414e-445f-bb84-7a3c4d1434b9",
+      "away_team": "Jaguars",
+      "home_team": "Raiders",
+      "predicted_score_away": 0.0,
+      "predicted_score_home": 0.0,
+      "scraped_at": "2025-11-02T16:04:12.328023"
+    },
+    {
+      "game_id": "2fcf6a6a-50bb-4d79-ad3e-3b2561e88b36",
+      "away_team": "Saints",
+      "home_team": "Rams",
+      "predicted_score_away": 3.0,
+      "predicted_score_home": 13.0,
+      "scraped_at": "2025-11-02T16:04:17.227485"
+    },
+    {
+      "game_id": "c44e63be-f50e-40f2-a88e-910732f08b6e",
+      "away_team": "Chiefs",
+      "home_team": "Bills",
+      "predicted_score_away": 7.0,
+      "predicted_score_home": 7.0,
+      "scraped_at": "2025-11-02T16:04:22.096915"
+    },
+    {
+      "game_id": "be1bb007-3e73-47e2-b028-164f28cfeba4",
+      "away_team": "Seahawks",
+      "home_team": "Commanders",
+      "predicted_score_away": 25.0,
+      "predicted_score_home": 22.0,
+      "scraped_at": "2025-11-02T16:04:26.866071"
+    },
+    {
+      "game_id": "654e7c28-163a-427d-b381-59fc91f422fa",
+      "away_team": "Cardinals",
+      "home_team": "Cowboys",
+      "predicted_score_away": 27.0,
+      "predicted_score_home": 30.0,
+      "scraped_at": "2025-11-02T16:04:31.549032"
+    }
+  ]
+}

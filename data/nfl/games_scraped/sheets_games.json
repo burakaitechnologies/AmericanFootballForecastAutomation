@@ -1,0 +1,70 @@
+{
+  "total_games": 13,
+  "games": [
+    {
+      "away_team": "Atlanta Falcons",
+      "home_team": "New England Patriots",
+      "row_number": 3
+    },
+    {
+      "away_team": "Los Angeles Chargers",
+      "home_team": "Tennessee Titans",
+      "row_number": 4
+    },
+    {
+      "away_team": "Chicago Bears",
+      "home_team": "Cincinnati Bengals",
+      "row_number": 5
+    },
+    {
+      "away_team": "Indianapolis Colts",
+      "home_team": "Pittsburgh Steelers",
+      "row_number": 6
+    },
+    {
+      "away_team": "San Francisco 49ers",
+      "home_team": "New York Giants",
+      "row_number": 7
+    },
+    {
+      "away_team": "Denver Broncos",
+      "home_team": "Houston Texans",
+      "row_number": 8
+    },
+    {
+      "away_team": "Minnesota Vikings",
+      "home_team": "Detroit Lions",
+      "row_number": 9
+    },
+    {
+      "away_team": "Carolina Panthers",
+      "home_team": "Green Bay Packers",
+      "row_number": 10
+    },
+    {
+      "away_team": "Jacksonville Jaguars",
+      "home_team": "Las Vegas Raiders",
+      "row_number": 11
+    },
+    {
+      "away_team": "New Orleans Saints",
+      "home_team": "Los Angeles Rams",
+      "row_number": 12
+    },
+    {
+      "away_team": "Kansas City Chiefs",
+      "home_team": "Buffalo Bills",
+      "row_number": 13
+    },
+    {
+      "away_team": "Seattle Seahawks",
+      "home_team": "Washington Commanders",
+      "row_number": 14
+    },
+    {
+      "away_team": "Arizona Cardinals",
+      "home_team": "Dallas Cowboys",
+      "row_number": 15
+    }
+  ]
+}

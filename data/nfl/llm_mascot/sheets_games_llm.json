@@ -1,0 +1,70 @@
+{
+  "total_games": 13,
+  "games": [
+    {
+      "away_team": "Falcons",
+      "home_team": "Patriots",
+      "row_number": 3
+    },
+    {
+      "away_team": "Chargers",
+      "home_team": "Titans",
+      "row_number": 4
+    },
+    {
+      "away_team": "Bears",
+      "home_team": "Bengals",
+      "row_number": 5
+    },
+    {
+      "away_team": "Colts",
+      "home_team": "Steelers",
+      "row_number": 6
+    },
+    {
+      "away_team": "49ers",
+      "home_team": "Giants",
+      "row_number": 7
+    },
+    {
+      "away_team": "Broncos",
+      "home_team": "Texans",
+      "row_number": 8
+    },
+    {
+      "away_team": "Vikings",
+      "home_team": "Lions",
+      "row_number": 9
+    },
+    {
+      "away_team": "Panthers",
+      "home_team": "Packers",
+      "row_number": 10
+    },
+    {
+      "away_team": "Jaguars",
+      "home_team": "Raiders",
+      "row_number": 11
+    },
+    {
+      "away_team": "Saints",
+      "home_team": "Rams",
+      "row_number": 12
+    },
+    {
+      "away_team": "Chiefs",
+      "home_team": "Bills",
+      "row_number": 13
+    },
+    {
+      "away_team": "Seahawks",
+      "home_team": "Commanders",
+      "row_number": 14
+    },
+    {
+      "away_team": "Cardinals",
+      "home_team": "Cowboys",
+      "row_number": 15
+    }
+  ]
+}

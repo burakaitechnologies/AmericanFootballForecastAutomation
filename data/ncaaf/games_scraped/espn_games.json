@@ -1,0 +1,318 @@
+{
+  "website": "espn",
+  "total": 39,
+  "games": [
+    {
+      "game_id": "5bc5dfea-a832-4dad-a03e-569a323bcd4f",
+      "away_team": "Massachusetts",
+      "home_team": "Akron",
+      "spread_away": 23.6,
+      "spread_home": 23.6,
+      "scraped_at": "2025-11-02T16:02:48.519917"
+    },
+    {
+      "game_id": "a32df232-090c-48a3-b56c-9c05c2f4385a",
+      "away_team": "Miami (OH)",
+      "home_team": "Ohio",
+      "spread_away": 34.3,
+      "spread_home": 34.3,
+      "scraped_at": "2025-11-02T16:02:51.220577"
+    },
+    {
+      "game_id": "a664007d-d8cd-4278-ac22-07e1072019c1",
+      "away_team": "Kent State",
+      "home_team": "Ball State",
+      "spread_away": 33.5,
+      "spread_home": 33.5,
+      "scraped_at": "2025-11-02T16:02:49.696332"
+    },
+    {
+      "game_id": "2bc80f81-1573-4452-a108-99986961d2fd",
+      "away_team": "Northern Illinois",
+      "home_team": "Toledo",
+      "spread_away": 14.2,
+      "spread_home": 14.2,
+      "scraped_at": "2025-11-02T16:02:49.104876"
+    },
+    {
+      "game_id": "37606318-9cf0-4b91-a21a-588025c13d2b",
+      "away_team": "Georgia Southern",
+      "home_team": "App State",
+      "spread_away": 42.0,
+      "spread_home": 42.0,
+      "scraped_at": "2025-11-02T16:02:50.762431"
+    },
+    {
+      "game_id": "5685cf01-e7b1-4006-a86d-458d2eaf00a1",
+      "away_team": "UTSA",
+      "home_team": "South Florida",
+      "spread_away": 14.3,
+      "spread_home": 14.3,
+      "scraped_at": "2025-11-02T16:02:51.015812"
+    },
+    {
+      "game_id": "a333d15b-6432-40cf-81de-35aa22727734",
+      "away_team": "Houston",
+      "home_team": "UCF",
+      "spread_away": 39.6,
+      "spread_home": 39.6,
+      "scraped_at": "2025-11-02T16:02:51.307545"
+    },
+    {
+      "game_id": "869dd1ff-1b8b-4c32-836e-14bff260534d",
+      "away_team": "Northwestern",
+      "home_team": "USC",
+      "spread_away": 9.2,
+      "spread_home": 9.2,
+      "scraped_at": "2025-11-02T16:02:50.083280"
+    },
+    {
+      "game_id": "9988285c-72b9-467a-bce9-f8bd489cf8a3",
+      "away_team": "Tulane",
+      "home_team": "Memphis",
+      "spread_away": 27.6,
+      "spread_home": 27.6,
+      "scraped_at": "2025-11-02T16:02:49.836837"
+    },
+    {
+      "game_id": "9f95223c-96a9-46f5-a57b-d9b3d0234148",
+      "away_team": "Georgia",
+      "home_team": "Mississippi State",
+      "spread_away": 78.7,
+      "spread_home": 78.7,
+      "scraped_at": "2025-11-02T16:02:50.620421"
+    },
+    {
+      "game_id": "a3c19ff4-e698-468a-abc2-76056e2e485f",
+      "away_team": "Indiana",
+      "home_team": "Penn State",
+      "spread_away": 82.7,
+      "spread_home": 82.7,
+      "scraped_at": "2025-11-02T16:02:49.920160"
+    },
+    {
+      "game_id": "8d04b32f-d78b-457f-a2b7-867d775c632c",
+      "away_team": "SMU",
+      "home_team": "Boston College",
+      "spread_away": 82.9,
+      "spread_home": 82.9,
+      "scraped_at": "2025-11-02T16:02:49.414545"
+    },
+    {
+      "game_id": "89e3f39b-8d9d-4139-8b70-34bfdbd4a4aa",
+      "away_team": "BYU",
+      "home_team": "Texas Tech",
+      "spread_away": 39.1,
+      "spread_home": 39.1,
+      "scraped_at": "2025-11-02T16:02:50.399641"
+    },
+    {
+      "game_id": "89c03b28-1a10-4763-b134-9ff5830876c4",
+      "away_team": "Colorado",
+      "home_team": "West Virginia",
+      "spread_away": 45.0,
+      "spread_home": 45.0,
+      "scraped_at": "2025-11-02T16:02:48.447312"
+    },
+    {
+      "game_id": "f29e83fd-5b98-4a9d-a66d-83e2ee504c12",
+      "away_team": "James Madison",
+      "home_team": "Marshall",
+      "spread_away": 78.3,
+      "spread_home": 78.3,
+      "scraped_at": "2025-11-02T16:02:50.695160"
+    },
+    {
+      "game_id": "1df91077-b24f-49db-986e-cf633dee4030",
+      "away_team": "Temple",
+      "home_team": "Army",
+      "spread_away": 33.9,
+      "spread_home": 33.9,
+      "scraped_at": "2025-11-02T16:02:48.955408"
+    },
+    {
+      "game_id": "b28bcf8d-dbd2-47aa-b0ce-1876e76ce16e",
+      "away_team": "Ohio State",
+      "home_team": "Purdue",
+      "spread_away": 97.1,
+      "spread_home": 97.1,
+      "scraped_at": "2025-11-02T16:02:50.550910"
+    },
+    {
+      "game_id": "868e94a9-42eb-4fb6-8fa5-dfa652cfb3f2",
+      "away_team": "Missouri State",
+      "home_team": "Liberty",
+      "spread_away": 35.1,
+      "spread_home": 35.1,
+      "scraped_at": "2025-11-02T16:02:50.847592"
+    },
+    {
+      "game_id": "47c0297b-f63a-4722-a47a-e735883bd5c2",
+      "away_team": "Bowling Green",
+      "home_team": "Eastern Michigan",
+      "spread_away": 49.3,
+      "spread_home": 49.3,
+      "scraped_at": "2025-11-02T16:02:48.870937"
+    },
+    {
+      "game_id": "84ee2620-c2f9-487c-8df8-5a6d419eaa28",
+      "away_team": "UAB",
+      "home_team": "Rice",
+      "spread_away": 46.4,
+      "spread_home": 46.4,
+      "scraped_at": "2025-11-02T16:02:51.394049"
+    },
+    {
+      "game_id": "d46e6918-8999-4d85-ad2e-1699cadaf443",
+      "away_team": "Maryland",
+      "home_team": "Rutgers",
+      "spread_away": 46.9,
+      "spread_home": 46.9,
+      "scraped_at": "2025-11-02T16:02:49.767446"
+    },
+    {
+      "game_id": "e5f2bb81-93fd-482c-a5c9-ddff66c87916",
+      "away_team": "Charlotte",
+      "home_team": "East Carolina",
+      "spread_away": 2.8,
+      "spread_home": 2.8,
+      "scraped_at": "2025-11-02T16:02:47.072823"
+    },
+    {
+      "game_id": "a9eca9bc-aa25-4781-839a-32cbcf069675",
+      "away_team": "Tulsa",
+      "home_team": "Florida Atlantic",
+      "spread_away": 30.2,
+      "spread_home": 30.2,
+      "scraped_at": "2025-11-02T16:02:49.031142"
+    },
+    {
+      "game_id": "94d984ca-d71f-4440-8dcf-734a12641455",
+      "away_team": "Texas A&M",
+      "home_team": "Missouri",
+      "spread_away": 56.0,
+      "spread_home": 56.0,
+      "scraped_at": "2025-11-02T16:02:50.238560"
+    },
+    {
+      "game_id": "5bcb5177-9459-4b21-ad22-f768f4fdc8eb",
+      "away_team": "Oregon",
+      "home_team": "Iowa",
+      "spread_away": 69.7,
+      "spread_home": 69.7,
+      "scraped_at": "2025-11-02T16:02:49.336741"
+    },
+    {
+      "game_id": "c2041816-8086-4039-bf93-43131c991854",
+      "away_team": "Syracuse",
+      "home_team": "Miami",
+      "spread_away": 3.7,
+      "spread_home": 3.7,
+      "scraped_at": "2025-11-02T16:02:51.097056"
+    },
+    {
+      "game_id": "f50d5fff-cadf-4f1b-95f0-d00a5f73b62c",
+      "away_team": "Kansas",
+      "home_team": "Arizona",
+      "spread_away": 35.8,
+      "spread_home": 35.8,
+      "scraped_at": "2025-11-02T16:02:50.157291"
+    },
+    {
+      "game_id": "712d2404-e6bb-4939-a4af-53e81a2f21c1",
+      "away_team": "Iowa State",
+      "home_team": "TCU",
+      "spread_away": 33.7,
+      "spread_home": 33.7,
+      "scraped_at": "2025-11-02T16:02:50.000481"
+    },
+    {
+      "game_id": "0a8a5936-b702-419a-b041-3da1e49ec1f1",
+      "away_team": "Auburn",
+      "home_team": "Vanderbilt",
+      "spread_away": 29.1,
+      "spread_home": 29.1,
+      "scraped_at": "2025-11-02T16:02:50.475213"
+    },
+    {
+      "game_id": "37830e1b-78a1-456c-bf00-57513b549a89",
+      "away_team": "Washington",
+      "home_team": "Wisconsin",
+      "spread_away": 72.9,
+      "spread_home": 72.9,
+      "scraped_at": "2025-11-02T16:02:51.458523"
+    },
+    {
+      "game_id": "df29dc61-3ac1-4853-b913-d7a2509c56dc",
+      "away_team": "Stanford",
+      "home_team": "North Carolina",
+      "spread_away": 37.1,
+      "spread_home": 37.1,
+      "scraped_at": "2025-11-02T16:02:51.546594"
+    },
+    {
+      "game_id": "6853393a-e157-446c-ac13-82fc77a8da1d",
+      "away_team": "California",
+      "home_team": "Louisville",
+      "spread_away": 8.3,
+      "spread_home": 8.3,
+      "scraped_at": "2025-11-02T16:02:48.597746"
+    },
+    {
+      "game_id": "910be7a9-b342-4712-9817-bda94b719a4b",
+      "away_team": "Florida State",
+      "home_team": "Clemson",
+      "spread_away": 53.8,
+      "spread_home": 53.8,
+      "scraped_at": "2025-11-02T16:02:51.639939"
+    },
+    {
+      "game_id": "0726d217-a591-4fb0-8bb8-d4fcac1a67bb",
+      "away_team": "Wake Forest",
+      "home_team": "Virginia",
+      "spread_away": 21.5,
+      "spread_home": 21.5,
+      "scraped_at": "2025-11-02T16:02:49.265230"
+    },
+    {
+      "game_id": "eb0bf96e-b461-421c-8329-04f253bd8528",
+      "away_team": "LSU",
+      "home_team": "Alabama",
+      "spread_away": 19.1,
+      "spread_home": 19.1,
+      "scraped_at": "2025-11-02T16:02:50.321907"
+    },
+    {
+      "game_id": "2f05a8ef-d4e7-45f0-93b8-54f703171412",
+      "away_team": "Florida",
+      "home_team": "Kentucky",
+      "spread_away": 58.8,
+      "spread_home": 58.8,
+      "scraped_at": "2025-11-02T16:02:49.484978"
+    },
+    {
+      "game_id": "69c6b711-65dc-489a-be79-8f53aa43c8c3",
+      "away_team": "Navy",
+      "home_team": "Notre Dame",
+      "spread_away": 3.5,
+      "spread_home": 3.5,
+      "scraped_at": "2025-11-02T16:02:49.549239"
+    },
+    {
+      "game_id": "05bb9f92-9eb6-4d2a-a98a-3adb4cb643d6",
+      "away_team": "Nebraska",
+      "home_team": "UCLA",
+      "spread_away": 68.2,
+      "spread_home": 68.2,
+      "scraped_at": "2025-11-02T16:02:50.928758"
+    },
+    {
+      "game_id": "396d9d98-c5f2-44db-8fbb-d5369650588f",
+      "away_team": "UNLV",
+      "home_team": "Colorado State",
+      "spread_away": 62.3,
+      "spread_home": 62.3,
+      "scraped_at": "2025-11-02T16:02:49.615889"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "sheets_total": 15,
+  "dimers_matched": 4,
+  "oddshark_matched": 4,
+  "espn_matched": 3,
+  "dratings_matched": 4,
+  "matched_sheets_rows": {
+    "3": {
+      "sheets": {
+        "away_team": "Vanderbilt University",
+        "home_team": "University of Texas"
+      }
+    },
+    "4": {
+      "sheets": {
+        "away_team": "Duke University",
+        "home_team": "Clemson University"
+      }
+    },
+    "5": {
+      "sheets": {
+        "away_team": "University of Central Florida",
+        "home_team": "Baylor University"
+      }
+    },
+    "6": {
+      "sheets": {
+        "away_team": "United States Military Academy",
+        "home_team": "United States Air Force Academy"
+      }
+    },
+    "7": {
+      "sheets": {
+        "away_team": "United States Naval Academy",
+        "home_team": "University of North Texas"
+      }
+    },
+    "8": {
+      "sheets": {
+        "away_team": "University of Buffalo",
+        "home_team": "Bowling Green State University"
+      }
+    },
+    "9": {
+      "sheets": {
+        "away_team": "Arizona State University",
+        "home_team": "Iowa State University"
+      },
+      "dimers": {
+        "game_id": "151f2265-6930-4388-b13a-c4c60a136899",
+        "away_team": "Kent State University",
+        "home_team": "Ball State University",
+        "predicted_score_away": 24.0,
+        "predicted_score_home": 24.0,
+        "scraped_at": "2025-11-02T16:02:56.620622"
+      },
+      "oddshark": {
+        "game_id": "098c9baf-9cc9-4871-9657-333421bcf60d",
+        "away_team": "Kent State University",
+        "home_team": "Ball State University",
+        "predicted_score_away": 8.4,
+        "predicted_score_home": 27.0,
+        "scraped_at": "2025-11-02T16:03:03.140554"
+      },
+      "espn": {
+        "game_id": "a664007d-d8cd-4278-ac22-07e1072019c1",
+        "away_team": "Kent State University",
+        "home_team": "Ball State University",
+        "spread_away": 33.5,
+        "spread_home": 33.5,
+        "scraped_at": "2025-11-02T16:02:49.696332"
+      },
+      "dratings": {
+        "game_id": "2aa2fb6b-a077-4fcc-9ee9-cbcfef91c7ad",
+        "away_team": "Kent State University",
+        "home_team": "Ball State University",
+        "spread_away": 37.9,
+        "spread_home": 62.1,
+        "scraped_at": "2025-11-02T16:03:21.399755"
+      }
+    },
+    "10": {
+      "sheets": {
+        "away_team": "University of Georgia",
+        "home_team": "University of Florida"
+      }
+    },
+    "11": {
+      "sheets": {
+        "away_team": "Michigan State University",
+        "home_team": "University of Minnesota"
+      }
+    },
+    "12": {
+      "sheets": {
+        "away_team": "University of Louisiana",
+        "home_team": "University of South Alabama"
+      },
+      "dimers": {
+        "game_id": "d35b1fbc-323a-4ce0-840a-fc08c12e0ec8",
+        "away_team": "Louisiana State University",
+        "home_team": "University of Alabama",
+        "predicted_score_away": 19.0,
+        "predicted_score_home": 31.0,
+        "scraped_at": "2025-11-02T16:03:10.500064"
+      },
+      "oddshark": {
+        "game_id": "29ece4e7-a321-49ef-982a-8b173803341c",
+        "away_team": "Louisiana State University",
+        "home_team": "University of Alabama",
+        "predicted_score_away": 21.6,
+        "predicted_score_home": 27.8,
+        "scraped_at": "2025-11-02T16:03:15.566483"
+      },
+      "espn": {
+        "game_id": "eb0bf96e-b461-421c-8329-04f253bd8528",
+        "away_team": "Louisiana State University",
+        "home_team": "University of Alabama",
+        "spread_away": 19.1,
+        "spread_home": 19.1,
+        "scraped_at": "2025-11-02T16:02:50.321907"
+      },
+      "dratings": {
+        "game_id": "672d1cbf-594d-415c-921e-1670c10a353e",
+        "away_team": "Louisiana State University",
+        "home_team": "University of Alabama",
+        "spread_away": 21.1,
+        "spread_home": 78.9,
+        "scraped_at": "2025-11-02T16:03:36.244396"
+      }
+    },
+    "13": {
+      "sheets": {
+        "away_team": "Mississippi State University",
+        "home_team": "University of Arkansas"
+      },
+      "dimers": {
+        "game_id": "6412be87-db82-49b4-885d-22d29315bc8f",
+        "away_team": "University of Southern Mississippi",
+        "home_team": "Arkansas State University",
+        "predicted_score_away": 31.0,
+        "predicted_score_home": 26.0,
+        "scraped_at": "2025-11-02T16:03:08.270003"
+      },
+      "oddshark": {
+        "game_id": "de488cf1-83f7-47ec-beb2-d40a1da5d4e9",
+        "away_team": "The University of Southern Mississippi",
+        "home_team": "Arkansas State University",
+        "predicted_score_away": 36.9,
+        "predicted_score_home": 20.2,
+        "scraped_at": "2025-11-02T16:03:01.505016"
+      },
+      "dratings": {
+        "game_id": "c0ecbc91-8a2b-4ad4-916f-4207e6fbdb2a",
+        "away_team": "University of Southern Mississippi",
+        "home_team": "Arkansas State University",
+        "spread_away": 68.4,
+        "spread_home": 31.6,
+        "scraped_at": "2025-11-02T16:03:23.967637"
+      }
+    },
+    "14": {
+      "sheets": {
+        "away_team": "University of Arizona",
+        "home_team": "University of Colorado"
+      }
+    },
+    "15": {
+      "sheets": {
+        "away_team": "University of Oklahoma",
+        "home_team": "University of Tennessee"
+      }
+    },
+    "16": {
+      "sheets": {
+        "away_team": "Washington State University",
+        "home_team": "Oregon State University"
+      },
+      "dimers": {
+        "game_id": "151f2265-6930-4388-b13a-c4c60a136899",
+        "away_team": "Kent State University",
+        "home_team": "Ball State University",
+        "predicted_score_away": 24.0,
+        "predicted_score_home": 24.0,
+        "scraped_at": "2025-11-02T16:02:56.620622"
+      },
+      "oddshark": {
+        "game_id": "098c9baf-9cc9-4871-9657-333421bcf60d",
+        "away_team": "Kent State University",
+        "home_team": "Ball State University",
+        "predicted_score_away": 8.4,
+        "predicted_score_home": 27.0,
+        "scraped_at": "2025-11-02T16:03:03.140554"
+      },
+      "espn": {
+        "game_id": "a664007d-d8cd-4278-ac22-07e1072019c1",
+        "away_team": "Kent State University",
+        "home_team": "Ball State University",
+        "spread_away": 33.5,
+        "spread_home": 33.5,
+        "scraped_at": "2025-11-02T16:02:49.696332"
+      },
+      "dratings": {
+        "game_id": "2aa2fb6b-a077-4fcc-9ee9-cbcfef91c7ad",
+        "away_team": "Kent State University",
+        "home_team": "Ball State University",
+        "spread_away": 37.9,
+        "spread_home": 62.1,
+        "scraped_at": "2025-11-02T16:03:21.399755"
+      }
+    },
+    "17": {
+      "sheets": {
+        "away_team": "University of Hawai'i",
+        "home_team": "San Jose State University"
+      }
+    }
+  }
+}

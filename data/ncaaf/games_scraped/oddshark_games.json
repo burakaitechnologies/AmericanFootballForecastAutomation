@@ -1,0 +1,398 @@
+{
+  "website": "oddshark",
+  "total": 49,
+  "games": [
+    {
+      "game_id": "dbda7826-e034-427b-a0f6-9b827b24ab4d",
+      "away_team": "Massachusetts",
+      "home_team": "Akron",
+      "predicted_score_away": 0.6,
+      "predicted_score_home": 27.4,
+      "scraped_at": "2025-11-02T16:03:16.091076"
+    },
+    {
+      "game_id": "80301cdf-30c7-4d40-8c82-9f09910166d3",
+      "away_team": "Miami-OH",
+      "home_team": "Ohio",
+      "predicted_score_away": 34.3,
+      "predicted_score_home": 26.7,
+      "scraped_at": "2025-11-02T16:03:16.871171"
+    },
+    {
+      "game_id": "098c9baf-9cc9-4871-9657-333421bcf60d",
+      "away_team": "Kent State",
+      "home_team": "Ball State",
+      "predicted_score_away": 8.4,
+      "predicted_score_home": 27.0,
+      "scraped_at": "2025-11-02T16:03:03.140554"
+    },
+    {
+      "game_id": "a942e268-d56b-4465-a17e-50f935f592a1",
+      "away_team": "NIU",
+      "home_team": "Toledo",
+      "predicted_score_away": 14.6,
+      "predicted_score_home": 47.2,
+      "scraped_at": "2025-11-02T16:02:57.748027"
+    },
+    {
+      "game_id": "aeb3f5b3-2180-4d63-820f-36f463e5f38d",
+      "away_team": "Georgia Southern",
+      "home_team": "Appalachian State",
+      "predicted_score_away": 33.0,
+      "predicted_score_home": 26.1,
+      "scraped_at": "2025-11-02T16:03:03.613943"
+    },
+    {
+      "game_id": "e15268cd-9c9b-46d5-bd71-904c4980bb04",
+      "away_team": "UTSA",
+      "home_team": "USF",
+      "predicted_score_away": 26.5,
+      "predicted_score_home": 45.3,
+      "scraped_at": "2025-11-02T16:03:18.276563"
+    },
+    {
+      "game_id": "245c483b-d6e0-4ffa-bfa7-60aaec839397",
+      "away_team": "Houston",
+      "home_team": "UCF",
+      "predicted_score_away": 31.3,
+      "predicted_score_home": 25.1,
+      "scraped_at": "2025-11-02T16:03:15.015826"
+    },
+    {
+      "game_id": "f7366ca2-e630-4df8-bc02-a1d83c69e875",
+      "away_team": "Air Force",
+      "home_team": "San Jose State",
+      "predicted_score_away": 14.2,
+      "predicted_score_home": 36.1,
+      "scraped_at": "2025-11-02T16:03:04.486745"
+    },
+    {
+      "game_id": "961bcd28-983f-417e-83b7-c3a18031fb1d",
+      "away_team": "UNLV",
+      "home_team": "Colorado State",
+      "predicted_score_away": 22.2,
+      "predicted_score_home": 20.4,
+      "scraped_at": "2025-11-02T16:02:59.157490"
+    },
+    {
+      "game_id": "381919b4-78b9-489f-9b40-58a574daa5b4",
+      "away_team": "Georgia State",
+      "home_team": "Coastal Carolina",
+      "predicted_score_away": 21.2,
+      "predicted_score_home": 21.6,
+      "scraped_at": "2025-11-02T16:02:59.730922"
+    },
+    {
+      "game_id": "9247e2d9-3159-49c5-ae66-3ee4a02730c4",
+      "away_team": "James Madison",
+      "home_team": "Marshall",
+      "predicted_score_away": 39.8,
+      "predicted_score_home": 21.4,
+      "scraped_at": "2025-11-02T16:02:58.505330"
+    },
+    {
+      "game_id": "de488cf1-83f7-47ec-beb2-d40a1da5d4e9",
+      "away_team": "Southern Miss",
+      "home_team": "Arkansas State",
+      "predicted_score_away": 36.9,
+      "predicted_score_home": 20.2,
+      "scraped_at": "2025-11-02T16:03:01.505016"
+    },
+    {
+      "game_id": "dbe2691c-ef14-48d5-aa2d-c2c1f92eeb18",
+      "away_team": "Texas State",
+      "home_team": "Louisiana-Lafayette",
+      "predicted_score_away": 26.8,
+      "predicted_score_home": 24.8,
+      "scraped_at": "2025-11-02T16:03:05.717258"
+    },
+    {
+      "game_id": "cbf73262-fde0-4f6f-baf8-53a7ef1acc73",
+      "away_team": "UAB",
+      "home_team": "Rice",
+      "predicted_score_away": 23.1,
+      "predicted_score_home": 13.8,
+      "scraped_at": "2025-11-02T16:03:15.834980"
+    },
+    {
+      "game_id": "8a01c1da-324f-49c7-aa52-f4c965516b7e",
+      "away_team": "Charlotte",
+      "home_team": "East Carolina",
+      "predicted_score_away": 10.8,
+      "predicted_score_home": 33.4,
+      "scraped_at": "2025-11-02T16:03:04.737412"
+    },
+    {
+      "game_id": "b0c58bdc-56ad-4394-bb30-de6f1fbc2aaf",
+      "away_team": "Tulsa",
+      "home_team": "Florida Atlantic",
+      "predicted_score_away": 23.9,
+      "predicted_score_home": 19.7,
+      "scraped_at": "2025-11-02T16:03:14.262989"
+    },
+    {
+      "game_id": "29ece4e7-a321-49ef-982a-8b173803341c",
+      "away_team": "LSU",
+      "home_team": "Alabama",
+      "predicted_score_away": 21.6,
+      "predicted_score_home": 27.8,
+      "scraped_at": "2025-11-02T16:03:15.566483"
+    },
+    {
+      "game_id": "cc293aff-fc89-4074-91c1-0bec608310ed",
+      "away_team": "Auburn",
+      "home_team": "Vanderbilt",
+      "predicted_score_away": 16.4,
+      "predicted_score_home": 32.9,
+      "scraped_at": "2025-11-02T16:03:02.830974"
+    },
+    {
+      "game_id": "bad254d9-cb2a-409b-8f84-dd332eacc22a",
+      "away_team": "Florida",
+      "home_team": "Kentucky",
+      "predicted_score_away": 21.8,
+      "predicted_score_home": 16.6,
+      "scraped_at": "2025-11-02T16:03:06.027052"
+    },
+    {
+      "game_id": "61e88674-a0d9-48a5-b9bc-d3cfadc989aa",
+      "away_team": "Texas A&M",
+      "home_team": "Missouri",
+      "predicted_score_away": 33.2,
+      "predicted_score_home": 29.8,
+      "scraped_at": "2025-11-02T16:03:04.192259"
+    },
+    {
+      "game_id": "cff87bc9-2880-4f98-8be8-f6c2e6c62970",
+      "away_team": "Kansas",
+      "home_team": "Arizona",
+      "predicted_score_away": 20.9,
+      "predicted_score_home": 28.2,
+      "scraped_at": "2025-11-02T16:03:16.301574"
+    },
+    {
+      "game_id": "75729f4b-f186-4879-88e5-6bcd49977e46",
+      "away_team": "BYU",
+      "home_team": "Texas Tech",
+      "predicted_score_away": 24.5,
+      "predicted_score_home": 34.4,
+      "scraped_at": "2025-11-02T16:03:01.177455"
+    },
+    {
+      "game_id": "7134bf40-0cc7-4701-83fa-e152f5348543",
+      "away_team": "Colorado",
+      "home_team": "West Virginia",
+      "predicted_score_away": 16.9,
+      "predicted_score_home": 16.0,
+      "scraped_at": "2025-11-02T16:03:17.320725"
+    },
+    {
+      "game_id": "6b05b077-cce7-4951-83cc-3d964d57eacb",
+      "away_team": "Iowa State",
+      "home_team": "TCU",
+      "predicted_score_away": 23.6,
+      "predicted_score_home": 34.2,
+      "scraped_at": "2025-11-02T16:02:58.032264"
+    },
+    {
+      "game_id": "870f7272-913b-4808-99d5-5dba79aea8d6",
+      "away_team": "SMU",
+      "home_team": "Boston College",
+      "predicted_score_away": 31.0,
+      "predicted_score_home": 5.1,
+      "scraped_at": "2025-11-02T16:03:04.990189"
+    },
+    {
+      "game_id": "cf5fc02e-09eb-4c57-83ad-fbfa5408ba88",
+      "away_team": "California",
+      "home_team": "Louisville",
+      "predicted_score_away": 15.7,
+      "predicted_score_home": 35.9,
+      "scraped_at": "2025-11-02T16:03:00.219318"
+    },
+    {
+      "game_id": "a8009fc5-5f39-4e30-8400-5971a4c5cca0",
+      "away_team": "Florida State",
+      "home_team": "Clemson",
+      "predicted_score_away": 39.0,
+      "predicted_score_home": 33.2,
+      "scraped_at": "2025-11-02T16:03:16.603065"
+    },
+    {
+      "game_id": "fd5a608b-a86a-456a-870e-fb0c11706dfe",
+      "away_team": "Syracuse",
+      "home_team": "Miami-FL",
+      "predicted_score_away": 11.1,
+      "predicted_score_home": 44.3,
+      "scraped_at": "2025-11-02T16:03:05.382997"
+    },
+    {
+      "game_id": "1d275a03-5ef2-4b8e-949b-a668037ffb5a",
+      "away_team": "Stanford",
+      "home_team": "North Carolina",
+      "predicted_score_away": 12.4,
+      "predicted_score_home": 30.0,
+      "scraped_at": "2025-11-02T16:03:13.812313"
+    },
+    {
+      "game_id": "6fba0fae-e1ee-4a2f-8dd8-b09961060125",
+      "away_team": "Wake Forest",
+      "home_team": "Virginia",
+      "predicted_score_away": 27.0,
+      "predicted_score_home": 33.2,
+      "scraped_at": "2025-11-02T16:03:14.534070"
+    },
+    {
+      "game_id": "6d91d158-1f8b-4e52-a847-59f0ae63f85c",
+      "away_team": "Indiana",
+      "home_team": "Penn State",
+      "predicted_score_away": 44.0,
+      "predicted_score_home": 21.4,
+      "scraped_at": "2025-11-02T16:02:59.452792"
+    },
+    {
+      "game_id": "94b94ed4-131e-4ca5-9b2d-6de8d1b621b6",
+      "away_team": "Oregon",
+      "home_team": "Iowa",
+      "predicted_score_away": 38.5,
+      "predicted_score_home": 27.2,
+      "scraped_at": "2025-11-02T16:03:02.489439"
+    },
+    {
+      "game_id": "f74a5694-2c04-45c8-a572-29cb058d8d03",
+      "away_team": "Maryland",
+      "home_team": "Rutgers",
+      "predicted_score_away": 24.2,
+      "predicted_score_home": 14.2,
+      "scraped_at": "2025-11-02T16:02:52.376628"
+    },
+    {
+      "game_id": "68901318-d204-4dd2-a59b-f83081c6e45e",
+      "away_team": "Ohio State",
+      "home_team": "Purdue",
+      "predicted_score_away": 49.2,
+      "predicted_score_home": 6.0,
+      "scraped_at": "2025-11-02T16:03:15.296363"
+    },
+    {
+      "game_id": "79d68378-bb8f-4356-ad5a-740d0f1ce536",
+      "away_team": "Washington",
+      "home_team": "Wisconsin",
+      "predicted_score_away": 32.6,
+      "predicted_score_home": 1.0,
+      "scraped_at": "2025-11-02T16:03:17.097083"
+    },
+    {
+      "game_id": "3fdd5731-c2b9-48f0-979d-efdd14bb7b50",
+      "away_team": "Northwestern",
+      "home_team": "USC",
+      "predicted_score_away": 15.4,
+      "predicted_score_home": 33.2,
+      "scraped_at": "2025-11-02T16:02:58.261887"
+    },
+    {
+      "game_id": "b6313054-e46a-4b26-a254-74b0a39c4896",
+      "away_team": "Tulane",
+      "home_team": "Memphis",
+      "predicted_score_away": 31.0,
+      "predicted_score_home": 30.8,
+      "scraped_at": "2025-11-02T16:03:00.818307"
+    },
+    {
+      "game_id": "208bc7c0-8fa0-4ccf-b4b2-870b3739996e",
+      "away_team": "Georgia",
+      "home_team": "Mississippi State",
+      "predicted_score_away": 36.0,
+      "predicted_score_home": 16.8,
+      "scraped_at": "2025-11-02T16:02:57.186998"
+    },
+    {
+      "game_id": "45471c0e-164a-49d5-bd95-a71f2119f042",
+      "away_team": "Temple",
+      "home_team": "Army",
+      "predicted_score_away": 12.7,
+      "predicted_score_home": 29.7,
+      "scraped_at": "2025-11-02T16:02:59.996257"
+    },
+    {
+      "game_id": "b48bf31a-8d7f-42ec-a9ea-767730f90121",
+      "away_team": "Bowling Green",
+      "home_team": "Eastern Michigan",
+      "predicted_score_away": 18.7,
+      "predicted_score_home": 23.2,
+      "scraped_at": "2025-11-02T16:03:03.858581"
+    },
+    {
+      "game_id": "4545168d-9059-4f21-b67c-e3e7947526da",
+      "away_team": "Jacksonville State",
+      "home_team": "UTEP",
+      "predicted_score_away": 27.0,
+      "predicted_score_home": 19.4,
+      "scraped_at": "2025-11-02T16:03:14.030241"
+    },
+    {
+      "game_id": "d2dd7d79-d971-4512-bf35-e00c00dd32e7",
+      "away_team": "FIU",
+      "home_team": "Middle Tennessee",
+      "predicted_score_away": 23.0,
+      "predicted_score_home": 26.2,
+      "scraped_at": "2025-11-02T16:02:56.907202"
+    },
+    {
+      "game_id": "7f01d0f3-72da-43f6-81c5-1741800e46da",
+      "away_team": "LA Tech",
+      "home_team": "Delaware",
+      "predicted_score_away": 33.6,
+      "predicted_score_home": 24.0,
+      "scraped_at": "2025-11-02T16:03:00.976404"
+    },
+    {
+      "game_id": "0db941ab-9865-4d49-b7f1-43dd62e7bffe",
+      "away_team": "Duke",
+      "home_team": "UCONN",
+      "predicted_score_away": 28.4,
+      "predicted_score_home": 36.8,
+      "scraped_at": "2025-11-02T16:02:57.453597"
+    },
+    {
+      "game_id": "416d9f56-ec27-4c2a-9686-7912c101877a",
+      "away_team": "Kennesaw State",
+      "home_team": "New Mexico State",
+      "predicted_score_away": 39.6,
+      "predicted_score_home": 17.0,
+      "scraped_at": "2025-11-02T16:03:13.581867"
+    },
+    {
+      "game_id": "0bb4d930-5f8f-4835-bc69-6805e2aadd2d",
+      "away_team": "Nevada",
+      "home_team": "Utah State",
+      "predicted_score_away": 21.0,
+      "predicted_score_home": 33.4,
+      "scraped_at": "2025-11-02T16:03:00.574075"
+    },
+    {
+      "game_id": "7a08d766-f835-4e39-9896-382badf7e164",
+      "away_team": "Navy",
+      "home_team": "Notre Dame",
+      "predicted_score_away": 30.8,
+      "predicted_score_home": 48.4,
+      "scraped_at": "2025-11-02T16:03:02.211053"
+    },
+    {
+      "game_id": "68513087-6e8d-4e2a-a4da-6129dfee9f81",
+      "away_team": "Sam Houston State",
+      "home_team": "Oregon State",
+      "predicted_score_away": 13.9,
+      "predicted_score_home": 13.9,
+      "scraped_at": "2025-11-02T16:03:01.749110"
+    },
+    {
+      "game_id": "df2c60ae-8498-453c-add0-a95955189d5c",
+      "away_team": "San Diego State",
+      "home_team": "Hawaii",
+      "predicted_score_away": 41.3,
+      "predicted_score_home": 11.3,
+      "scraped_at": "2025-11-02T16:03:17.773552"
+    }
+  ]
+}

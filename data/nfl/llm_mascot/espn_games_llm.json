@@ -1,0 +1,22 @@
+{
+  "website": "espn",
+  "total": 2,
+  "games": [
+    {
+      "game_id": "2f854aef-c7fe-4c28-abc0-2645c2caff46",
+      "away_team": "Seahawks",
+      "home_team": "Commanders",
+      "spread_away": 44.5,
+      "spread_home": 55.2,
+      "scraped_at": "2025-11-02T16:03:37.841379"
+    },
+    {
+      "game_id": "3386b15f-cb29-49e6-b91b-1e34a419f400",
+      "away_team": "Cardinals",
+      "home_team": "Cowboys",
+      "spread_away": 33.9,
+      "spread_home": 65.8,
+      "scraped_at": "2025-11-02T16:03:38.583522"
+    }
+  ]
+}

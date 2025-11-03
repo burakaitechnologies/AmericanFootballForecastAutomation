@@ -1,0 +1,80 @@
+{
+  "total_games": 15,
+  "games": [
+    {
+      "away_team": "Vanderbilt",
+      "home_team": "Texas",
+      "row_number": 3
+    },
+    {
+      "away_team": "Duke",
+      "home_team": "Clemson",
+      "row_number": 4
+    },
+    {
+      "away_team": "UCF",
+      "home_team": "Baylor",
+      "row_number": 5
+    },
+    {
+      "away_team": "Army",
+      "home_team": "Air Force",
+      "row_number": 6
+    },
+    {
+      "away_team": "Navy",
+      "home_team": "North Texas",
+      "row_number": 7
+    },
+    {
+      "away_team": "Buffalo",
+      "home_team": "Bowling Green",
+      "row_number": 8
+    },
+    {
+      "away_team": "Arizona State",
+      "home_team": "Iowa State",
+      "row_number": 9
+    },
+    {
+      "away_team": "Georgia",
+      "home_team": "Florida",
+      "row_number": 10
+    },
+    {
+      "away_team": "Michigan State",
+      "home_team": "Minnesota",
+      "row_number": 11
+    },
+    {
+      "away_team": "Louisiana",
+      "home_team": "South Alabama",
+      "row_number": 12
+    },
+    {
+      "away_team": "Mississippi State",
+      "home_team": "Arkansas",
+      "row_number": 13
+    },
+    {
+      "away_team": "Arizona",
+      "home_team": "Colorado",
+      "row_number": 14
+    },
+    {
+      "away_team": "Oklahoma",
+      "home_team": "Tennessee",
+      "row_number": 15
+    },
+    {
+      "away_team": "Washington State",
+      "home_team": "Oregon State",
+      "row_number": 16
+    },
+    {
+      "away_team": "Hawai'i",
+      "home_team": "San Jose State",
+      "row_number": 17
+    }
+  ]
+}

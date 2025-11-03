@@ -1,0 +1,80 @@
+{
+  "total_games": 15,
+  "games": [
+    {
+      "away_team": "Vanderbilt University",
+      "home_team": "University of Texas at Austin",
+      "row_number": 3
+    },
+    {
+      "away_team": "Duke University",
+      "home_team": "Clemson University",
+      "row_number": 4
+    },
+    {
+      "away_team": "University of Central Florida",
+      "home_team": "Baylor University",
+      "row_number": 5
+    },
+    {
+      "away_team": "United States Military Academy",
+      "home_team": "United States Air Force Academy",
+      "row_number": 6
+    },
+    {
+      "away_team": "United States Naval Academy",
+      "home_team": "University of North Texas",
+      "row_number": 7
+    },
+    {
+      "away_team": "University at Buffalo",
+      "home_team": "Bowling Green State University",
+      "row_number": 8
+    },
+    {
+      "away_team": "Arizona State University",
+      "home_team": "Iowa State University",
+      "row_number": 9
+    },
+    {
+      "away_team": "University of Georgia",
+      "home_team": "University of Florida",
+      "row_number": 10
+    },
+    {
+      "away_team": "Michigan State University",
+      "home_team": "University of Minnesota",
+      "row_number": 11
+    },
+    {
+      "away_team": "University of Louisiana at Lafayette",
+      "home_team": "University of South Alabama",
+      "row_number": 12
+    },
+    {
+      "away_team": "Mississippi State University",
+      "home_team": "University of Arkansas",
+      "row_number": 13
+    },
+    {
+      "away_team": "University of Arizona",
+      "home_team": "University of Colorado Boulder",
+      "row_number": 14
+    },
+    {
+      "away_team": "University of Oklahoma",
+      "home_team": "University of Tennessee",
+      "row_number": 15
+    },
+    {
+      "away_team": "Washington State University",
+      "home_team": "Oregon State University",
+      "row_number": 16
+    },
+    {
+      "away_team": "University of Hawai'i at Manoa",
+      "home_team": "San Jose State University",
+      "row_number": 17
+    }
+  ]
+}

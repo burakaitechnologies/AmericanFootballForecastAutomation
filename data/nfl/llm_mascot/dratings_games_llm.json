@@ -1,0 +1,30 @@
+{
+  "website": "dratings",
+  "total": 3,
+  "games": [
+    {
+      "game_id": "6128f610-3a1d-401a-afee-633bac5a26fb",
+      "away_team": "Seahawks",
+      "home_team": "Commanders",
+      "spread_away": 64.2,
+      "spread_home": 35.8,
+      "scraped_at": "2025-11-02T16:03:42.954290"
+    },
+    {
+      "game_id": "89db6b13-2efa-45cc-9da8-0a086f8a9dd5",
+      "away_team": "Cardinals",
+      "home_team": "Cowboys",
+      "spread_away": 43.0,
+      "spread_home": 57.0,
+      "scraped_at": "2025-11-02T16:03:43.260930"
+    },
+    {
+      "game_id": "d5666ff3-5736-4222-9720-3851110bb3b6",
+      "away_team": "Raiders",
+      "home_team": "Broncos",
+      "spread_away": 19.4,
+      "spread_home": 80.6,
+      "scraped_at": "2025-11-02T16:03:42.912780"
+    }
+  ]
+}
