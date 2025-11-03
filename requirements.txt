@@ -1,0 +1,33 @@
+# Core dependencies
+python-dotenv>=1.0.0
+
+# HTTP and Web Scraping
+aiohttp>=3.9.0
+beautifulsoup4>=4.12.0
+playwright>=1.40.0
+fake-useragent>=1.4.0
+
+# Data Validation and Models
+pydantic>=2.0.0
+
+# Workflow Orchestration
+langgraph>=0.0.20
+
+# LLM Integration
+langchain-openai>=0.0.5
+langchain-core>=0.1.0
+openai>=1.0.0
+
+# Search API
+tavily-python>=0.3.0
+
+# Google Sheets Integration
+google-api-python-client>=2.100.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+
+# String Matching
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
+
