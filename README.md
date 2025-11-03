@@ -53,6 +53,7 @@ AmericanFootballForecastAutomation/
 - Google Cloud Service Account with Sheets API access
 - OpenAI API key
 - Tavily API key
+- BrightData API key and proxy configuration
 - (Optional) SportsLine credentials for NFL scraping
 
 ## Setup
@@ -116,26 +117,10 @@ AmericanFootballForecastAutomation/
    
    # Method 2: Legacy JSON string format (alternative)
    # GOOGLE_SERVICE_ACCOUNT_KEY={"type":"service_account",...}
-   ```
-   
-   **Optional Variables:**
-   ```env
-   # =============================================================================
-   # SPORTSLINE CREDENTIALS (OPTIONAL - Required for NFL SportsLine scraper)
-   # =============================================================================
-   
-   # SportsLine Login Email
-   SPORTSLINE_EMAIL=your_sportsline_email
-   
-   # SportsLine Login Password
-   SPORTSLINE_PASSWORD=your_sportsline_password
-   
-   # SportsLine Login URL (optional, has default)
-   SPORTSLINE_LOGIN_URL=https://www.sportsline.com/login?xurl=%2F
    
    
    # =============================================================================
-   # BRIGHTDATA PROXY CONFIGURATION (OPTIONAL - For future use)
+   # BRIGHTDATA PROXY CONFIGURATION (REQUIRED)
    # =============================================================================
    
    # BrightData API Key
@@ -157,7 +142,21 @@ AmericanFootballForecastAutomation/
    PROXY_SESSION_ID=brightdata_session_001
    ```
    
-   **Note:** Most optional variables have default values or are only needed for specific features (e.g., SportsLine scraper).
+   **Optional Variables:**
+   ```env
+   # =============================================================================
+   # SPORTSLINE CREDENTIALS (OPTIONAL - Required for NFL SportsLine scraper)
+   # =============================================================================
+   
+   # SportsLine Login Email
+   SPORTSLINE_EMAIL=your_sportsline_email
+   
+   # SportsLine Login Password
+   SPORTSLINE_PASSWORD=your_sportsline_password
+   
+   # SportsLine Login URL (optional, has default)
+   SPORTSLINE_LOGIN_URL=https://www.sportsline.com/login?xurl=%2F
+   ```
 
 ## Usage
 
